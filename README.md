@@ -41,6 +41,35 @@ RepoRT-derived data remain subject to [CC BY-SA 4.0](https://creativecommons.org
 
 ---
 
+## Project Structure
+
+```text
+RT_ICL/
+├── 01_preprocess.ipynb
+├── 02_predict_compound.ipynb
+├── 03_predict_dataset.ipynb
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── source.tsv
+├── rt_icl/
+│   ├── config.py
+│   ├── data.py
+│   ├── preprocessing.py
+│   ├── descriptors.py
+│   ├── retrieval.py
+│   ├── prompt.py
+│   ├── prompts/
+│   ├── pipeline.py
+│   ├── evaluation.py
+│   └── providers/
+├── results/
+├── .env.example
+└── requirements.txt
+```
+
+---
+
 ## Installation
 
 Run the following from the repository root:
@@ -112,33 +141,4 @@ Metrics include MAE (s), median absolute error (s), MAPE (%), and R². To repeat
 
 ---
 
-## Project Structure
-
-```text
-RT_ICL/
-├── 01_preprocess.ipynb
-├── 02_predict_compound.ipynb
-├── 03_predict_dataset.ipynb
-├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── source.tsv
-├── rt_icl/
-│   ├── config.py
-│   ├── data.py
-│   ├── preprocessing.py
-│   ├── descriptors.py
-│   ├── retrieval.py
-│   ├── prompt.py
-│   ├── prompts/
-│   ├── pipeline.py
-│   ├── evaluation.py
-│   └── providers/
-├── results/
-├── .env.example
-└── requirements.txt
-```
-
 <!-- ## Citation -->
-
----
