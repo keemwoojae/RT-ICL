@@ -1,0 +1,12 @@
+dataset_id: "0283"
+column_type: "HILIC"
+column: "Phenomenex Kinetex HILIC (3 mm × 150 mm, 2.6 μm)"
+mobile_phase_A: "0.1% formic acid in water (pH 3)"
+mobile_phase_B: "methanol"
+flow_rate: "0.35 mL/min"
+column_temperature: "40 °C"
+gradient:
+  - "0 min (0 s): 5% A, 95% B"
+  - "20 min (1200 s): 100% A, 0% B"
+  - "25 min (1500 s): 100% A, 0% B"
+  - "30 min (1800 s): 5% A, 95% B"

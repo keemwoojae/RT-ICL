@@ -1,0 +1,12 @@
+{
+  "input_rows": 132,
+  "output_compounds": 132,
+  "excluded_rows": 0,
+  "merged_rows": 0,
+  "exclusions": [],
+  "dataset_id": "0234",
+  "rdkit_version": "2026.03.6",
+  "raw_sha256": "09fd570eac3412caa0f8730329e0670be7db39a45d037a62dceaf3df6119b9a3",
+  "lc_condition_sha256": "46bf00b5baea4d593cb903cb9d3f27f5f0bcdbb8bf550832434a27334517b314",
+  "rt_unit": "seconds"
+}

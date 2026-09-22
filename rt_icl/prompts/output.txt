@@ -1,0 +1,2 @@
+- The measured RT range of the reference dataset under these LC conditions is [{rt_min}, {rt_max}] s. Prefer predictions within this range, but predict outside it only when comparisons with the reference compounds and the stated LC conditions provide strong support.
+- Output only the predicted RT in seconds with exactly one decimal place (e.g., 293.2), without units, labels, or explanation.

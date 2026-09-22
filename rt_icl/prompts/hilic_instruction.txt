@@ -1,0 +1,4 @@
+- Use the reference compounds and their measured RTs collectively as the primary basis for predicting the query compound’s RT under the stated LC conditions.
+- Compare the query compound with the most relevant reference compounds using Morgan-fingerprint Tanimoto similarities, molecular descriptors, and key structural differences evident from the SMILES.
+- Use lower LogP and higher TPSA as approximate indicators of greater hydrophilicity, and HBA and HBD counts as indicators of hydrogen-bonding potential. Treat molecular formula, exact mass, and aromatic ring count as supporting information rather than direct determinants of RT.
+- In HILIC, retention can reflect hydrophilic partitioning and adsorption. Greater hydrophilicity often corresponds to later elution through hydrophilic partitioning. Interpret this tendency in the context of the stationary phase, mobile-phase composition, pH, and gradient. Do not treat polarity or LogP as a universal retention rule.

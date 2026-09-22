@@ -1,0 +1,113 @@
+{
+  "input_rows": 207,
+  "output_compounds": 186,
+  "excluded_rows": 20,
+  "merged_rows": 1,
+  "exclusions": [
+    {
+      "row": 3,
+      "id": "0182_00003",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 5,
+      "id": "0182_00005",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 8,
+      "id": "0182_00008",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 10,
+      "id": "0182_00010",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 11,
+      "id": "0182_00011",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 15,
+      "id": "0182_00015",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 16,
+      "id": "0182_00016",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 18,
+      "id": "0182_00018",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 22,
+      "id": "0182_00022",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 69,
+      "id": "0182_00070",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 73,
+      "id": "0182_00076",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 92,
+      "id": "0182_00095",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 117,
+      "id": "0182_00122",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 134,
+      "id": "0182_00139",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 153,
+      "id": "0182_00158",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 179,
+      "id": "0182_00184",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 182,
+      "id": "0182_00187",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 183,
+      "id": "0182_00188",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 195,
+      "id": "0182_00202",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 197,
+      "id": "0182_00204",
+      "reason": "missing_or_mismatched_formula"
+    }
+  ],
+  "dataset_id": "0182",
+  "rdkit_version": "2026.03.6",
+  "raw_sha256": "3e9323c7cef1f24ad1d67fb9331562464601ca777b2b56c55df88e015522c40a",
+  "lc_condition_sha256": "2f33f6fcdc6e167ecce2adf2264abd1240bbf11c6aff56ca8f9bd7c2d4e7eb03",
+  "rt_unit": "seconds"
+}

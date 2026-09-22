@@ -1,0 +1,48 @@
+{
+  "input_rows": 88,
+  "output_compounds": 81,
+  "excluded_rows": 7,
+  "merged_rows": 0,
+  "exclusions": [
+    {
+      "row": 2,
+      "id": "0178_00002",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 5,
+      "id": "0178_00005",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 8,
+      "id": "0178_00008",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 11,
+      "id": "0178_00011",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 12,
+      "id": "0178_00012",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 13,
+      "id": "0178_00013",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 76,
+      "id": "0178_00076",
+      "reason": "missing_or_mismatched_formula"
+    }
+  ],
+  "dataset_id": "0178",
+  "rdkit_version": "2026.03.6",
+  "raw_sha256": "69040dd74714dc512d5380575c71acc511ae4e81b12e50ecbcce4132fe28210f",
+  "lc_condition_sha256": "f5a05874051c161eeee81e85d3b1039c1c0dd28faf4256f8d76b84fca57d067d",
+  "rt_unit": "seconds"
+}

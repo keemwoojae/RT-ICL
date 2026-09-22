@@ -1,0 +1,4 @@
+- Use the reference compounds and their measured RTs collectively as the primary basis for predicting the query compound’s RT under the stated LC conditions.
+- Compare the query compound with the most relevant reference compounds using Morgan-fingerprint Tanimoto similarities, molecular descriptors, and key structural differences evident from the SMILES.
+- Use LogP as an approximate descriptor of neutral-form lipophilicity, TPSA as an indicator of polarity, and HBA and HBD counts as indicators of hydrogen-bonding potential. Treat molecular formula, exact mass, and aromatic ring count as supporting information rather than direct determinants of RT.
+- In RPLC, retention is commonly driven by interactions with a nonpolar stationary phase. Higher lipophilicity often corresponds to later elution, while polarity, hydrogen bonding, and other structural features can modify this trend. Treat these as qualitative, method-dependent tendencies rather than universal rules.

@@ -1,0 +1,13 @@
+dataset_id: "0004"
+column_type: "Reversed-Phase"
+column: "Thermo Scientific Hypersil GOLD (2.1 mm × 150 mm, 1.9 μm)"
+mobile_phase_A: "0.1% formic acid in water (pH 3)"
+mobile_phase_B: "0.1% formic acid in acetonitrile (pH 3)"
+flow_rate: "0.5 mL/min"
+column_temperature: "NA"
+gradient:
+  - "0 min (0 s): 100% A, 0% B"
+  - "2 min (120 s): 100% A, 0% B"
+  - "13 min (780 s): 0% A, 100% B"
+  - "15.5 min (930 s): 0% A, 100% B"
+  - "19 min (1140 s): 100% A, 0% B"

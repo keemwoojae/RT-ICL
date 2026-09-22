@@ -1,0 +1,68 @@
+{
+  "input_rows": 137,
+  "output_compounds": 125,
+  "excluded_rows": 11,
+  "merged_rows": 1,
+  "exclusions": [
+    {
+      "row": 3,
+      "id": "0231_00003",
+      "reason": "invalid_or_missing_smiles"
+    },
+    {
+      "row": 32,
+      "id": "0231_00032",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 67,
+      "id": "0231_00067",
+      "reason": "invalid_or_missing_smiles"
+    },
+    {
+      "row": 68,
+      "id": "0231_00068",
+      "reason": "invalid_or_missing_smiles"
+    },
+    {
+      "row": 69,
+      "id": "0231_00069",
+      "reason": "invalid_or_missing_smiles"
+    },
+    {
+      "row": 70,
+      "id": "0231_00070",
+      "reason": "invalid_or_missing_smiles"
+    },
+    {
+      "row": 71,
+      "id": "0231_00071",
+      "reason": "invalid_or_missing_smiles"
+    },
+    {
+      "row": 72,
+      "id": "0231_00072",
+      "reason": "invalid_or_missing_smiles"
+    },
+    {
+      "row": 73,
+      "id": "0231_00073",
+      "reason": "invalid_or_missing_smiles"
+    },
+    {
+      "row": 98,
+      "id": "0231_00098",
+      "reason": "invalid_or_missing_smiles"
+    },
+    {
+      "row": 100,
+      "id": "0231_00100",
+      "reason": "invalid_or_missing_smiles"
+    }
+  ],
+  "dataset_id": "0231",
+  "rdkit_version": "2026.03.6",
+  "raw_sha256": "a414b9cb74996e8fe3e2732ed9cff63122f4a83ddcc60e078a1826e219036e3a",
+  "lc_condition_sha256": "8923c251109319216b1aa0148419e8867162b52d88b96069785cfa7f1ad43ac5",
+  "rt_unit": "seconds"
+}

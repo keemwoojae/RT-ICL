@@ -1,0 +1,13 @@
+dataset_id: "0182"
+column_type: "Reversed-Phase"
+column: "Phenomenex Kinetex C18 (2.1 mm × 150 mm, 1.7 μm)"
+mobile_phase_A: "0.1% formic acid in water (pH 3)"
+mobile_phase_B: "0.1% formic acid in acetonitrile (pH 3)"
+flow_rate: "0.3 mL/min"
+column_temperature: "30 °C"
+gradient:
+  - "0 min (0 s): 98% A, 2% B"
+  - "14 min (840 s): 0% A, 100% B"
+  - "17 min (1020 s): 0% A, 100% B"
+  - "17.1 min (1026 s): 98% A, 2% B"
+  - "25 min (1500 s): 98% A, 2% B"

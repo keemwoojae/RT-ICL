@@ -1,0 +1,23 @@
+{
+  "input_rows": 136,
+  "output_compounds": 133,
+  "excluded_rows": 2,
+  "merged_rows": 1,
+  "exclusions": [
+    {
+      "row": 73,
+      "id": "0235_00073",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 105,
+      "id": "0235_00105",
+      "reason": "invalid_or_missing_smiles"
+    }
+  ],
+  "dataset_id": "0235",
+  "rdkit_version": "2026.03.6",
+  "raw_sha256": "90fac3a2ffc68fb28921d7bc8a39ce13f44b51af41e55e82c07b8d178b2d46fd",
+  "lc_condition_sha256": "596784b96e68f53047ea8f75b531e105c2b34fb3cd5341fab4143f5c3c575ecb",
+  "rt_unit": "seconds"
+}

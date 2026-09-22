@@ -1,0 +1,29 @@
+{
+  "mode": "inference",
+  "reference_count": 109,
+  "query_count": 1,
+  "rt_icl_config": {
+    "n_shot": 10,
+    "fp_radius": 3,
+    "fp_nbits": 4096,
+    "n_folds": 10,
+    "seeds": [
+      0,
+      2,
+      4
+    ],
+    "thinking_level": "low",
+    "max_output_tokens": 8192
+  },
+  "provider": {
+    "provider": "gemini",
+    "model": "gemini-3-flash-preview",
+    "max_output_tokens": 8192,
+    "thinking_level": "low",
+    "timeout_seconds": 240.0,
+    "max_retries": 3
+  },
+  "max_concurrent": 1,
+  "prompt_sha256": "aa7d41dd26647ff5ad70c8bd378379491b2204d48957f4d1ae4ffb912797909a",
+  "data_sha256": "698ff1c9cd3244c7b142f2d679b2d9abaf08d07060c9df5c92eeb3aa2d69ebe2"
+}

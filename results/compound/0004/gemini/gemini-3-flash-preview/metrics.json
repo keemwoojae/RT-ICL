@@ -1,0 +1,25 @@
+{
+  "overall": {
+    "total": 1,
+    "parsed": 1,
+    "parse_failures": 0,
+    "parse_rate": 1.0,
+    "api_errors": 0,
+    "labeled": 1,
+    "evaluated": 1,
+    "mae": 12.0,
+    "median_absolute_error": 12.0,
+    "mape_percent": 4.761904761904762,
+    "r2": null
+  },
+  "token_usage": {
+    "input_tokens": 1909,
+    "output_tokens": 989,
+    "thinking_tokens": 984
+  },
+  "timing": {
+    "started_at": "2026-09-22T07:53:27.087268+00:00",
+    "finished_at": "2026-09-22T07:53:31.993159+00:00",
+    "elapsed_seconds": 4.905891
+  }
+}

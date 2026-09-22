@@ -1,0 +1,293 @@
+{
+  "input_rows": 174,
+  "output_compounds": 110,
+  "excluded_rows": 56,
+  "merged_rows": 8,
+  "exclusions": [
+    {
+      "row": 5,
+      "id": "0004_00005",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 6,
+      "id": "0004_00006",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 7,
+      "id": "0004_00007",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 8,
+      "id": "0004_00008",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 10,
+      "id": "0004_00010",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 23,
+      "id": "0004_00023",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 25,
+      "id": "0004_00025",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 26,
+      "id": "0004_00026",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 35,
+      "id": "0004_00035",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 37,
+      "id": "0004_00037",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 38,
+      "id": "0004_00038",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 49,
+      "id": "0004_00049",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 54,
+      "id": "0004_00054",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 56,
+      "id": "0004_00056",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 58,
+      "id": "0004_00058",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 64,
+      "id": "0004_00064",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 70,
+      "id": "0004_00070",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 74,
+      "id": "0004_00074",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 78,
+      "id": "0004_00078",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 80,
+      "id": "0004_00080",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 82,
+      "id": "0004_00082",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 85,
+      "id": "0004_00085",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 86,
+      "id": "0004_00086",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 92,
+      "id": "0004_00092",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 93,
+      "id": "0004_00093",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 94,
+      "id": "0004_00094",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 95,
+      "id": "0004_00095",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 96,
+      "id": "0004_00096",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 103,
+      "id": "0004_00103",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 105,
+      "id": "0004_00105",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 109,
+      "id": "0004_00109",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 112,
+      "id": "0004_00112",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 113,
+      "id": "0004_00113",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 115,
+      "id": "0004_00115",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 116,
+      "id": "0004_00116",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 120,
+      "id": "0004_00120",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 123,
+      "id": "0004_00123",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 125,
+      "id": "0004_00125",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 129,
+      "id": "0004_00129",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 132,
+      "id": "0004_00132",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 133,
+      "id": "0004_00133",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 135,
+      "id": "0004_00135",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 140,
+      "id": "0004_00140",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 142,
+      "id": "0004_00142",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 143,
+      "id": "0004_00143",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 144,
+      "id": "0004_00144",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 146,
+      "id": "0004_00146",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 157,
+      "id": "0004_00157",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 160,
+      "id": "0004_00160",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 161,
+      "id": "0004_00161",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 166,
+      "id": "0004_00166",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 167,
+      "id": "0004_00167",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 168,
+      "id": "0004_00168",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 169,
+      "id": "0004_00169",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 171,
+      "id": "0004_00171",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    },
+    {
+      "row": 173,
+      "id": "0004_00173",
+      "reason": "duplicate_rt_spread_gt_0.1_min"
+    }
+  ],
+  "dataset_id": "0004",
+  "rdkit_version": "2026.03.6",
+  "raw_sha256": "293570ac554cdb59779f1d21b23e40b1a3ddeca27e3750e78cd1c0d19449ace7",
+  "lc_condition_sha256": "9f621ec28994be17437d1803ec028f347df59852011817a3126f3f64cfeb4417",
+  "rt_unit": "seconds"
+}

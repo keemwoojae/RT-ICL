@@ -1,0 +1,88 @@
+{
+  "input_rows": 147,
+  "output_compounds": 132,
+  "excluded_rows": 15,
+  "merged_rows": 0,
+  "exclusions": [
+    {
+      "row": 1,
+      "id": "0007_00001",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 56,
+      "id": "0007_00056",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 75,
+      "id": "0007_00075",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 86,
+      "id": "0007_00086",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 87,
+      "id": "0007_00087",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 94,
+      "id": "0007_00094",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 98,
+      "id": "0007_00098",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 101,
+      "id": "0007_00101",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 112,
+      "id": "0007_00112",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 119,
+      "id": "0007_00119",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 120,
+      "id": "0007_00120",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 121,
+      "id": "0007_00121",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 134,
+      "id": "0007_00134",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 135,
+      "id": "0007_00135",
+      "reason": "missing_or_mismatched_formula"
+    },
+    {
+      "row": 146,
+      "id": "0007_00146",
+      "reason": "missing_or_mismatched_formula"
+    }
+  ],
+  "dataset_id": "0007",
+  "rdkit_version": "2026.03.6",
+  "raw_sha256": "c995c74a29ec34254d05f3edfa9bc2200bb9fad071042d18142bd4925e5c7c6a",
+  "lc_condition_sha256": "891dd035ebd1e55f739ba183f31189728332c7e7100269c69822d94bd39264da",
+  "rt_unit": "seconds"
+}

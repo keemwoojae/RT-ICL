@@ -1,0 +1,10 @@
+dataset_id: "0007"
+column_type: "HILIC"
+column: "Merck SeQuant ZIC-pHILIC (2.1 mm × 150 mm, 5 μm)"
+mobile_phase_A: "acetonitrile"
+mobile_phase_B: "10 mM ammonium carbonate in water"
+flow_rate: "0.1 mL/min"
+column_temperature: "NA"
+gradient:
+  - "0 min (0 s): 80% A, 20% B"
+  - "30 min (1800 s): 20% A, 80% B"

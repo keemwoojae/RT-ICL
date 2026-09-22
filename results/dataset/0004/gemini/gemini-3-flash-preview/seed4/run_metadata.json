@@ -1,0 +1,35 @@
+{
+  "mode": "cross_validation",
+  "dataset_id": "0004",
+  "compound_count": 110,
+  "split": {
+    "method": "KFold",
+    "shuffle": true,
+    "n_folds": 10,
+    "seed": 4
+  },
+  "rt_icl_config": {
+    "n_shot": 10,
+    "fp_radius": 3,
+    "fp_nbits": 4096,
+    "n_folds": 10,
+    "seeds": [
+      0,
+      2,
+      4
+    ],
+    "thinking_level": "low",
+    "max_output_tokens": 8192
+  },
+  "provider": {
+    "provider": "gemini",
+    "model": "gemini-3-flash-preview",
+    "max_output_tokens": 8192,
+    "thinking_level": "low",
+    "timeout_seconds": 240.0,
+    "max_retries": 3
+  },
+  "max_concurrent": 40,
+  "prompt_sha256": "5c1dad37f06fa4459c9ac878c3c4319e484b39ae7e42a60b4cde0a174aae0267",
+  "data_sha256": "7c283564eef8d47230083d0910a3547913d3298f95011400532c86cdbeca3ef2"
+}
